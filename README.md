@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network File Shares and Permissions]  
   - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Klinsmannn/Inspecting-Network-Traffic)
+  - [Inspecting Network Protocols and Remote SSH Connection](https://github.com/Klinsmannn/Inspecting-Network-Traffic)
 
 <h2>🤳Connect with me:</h2>
 
