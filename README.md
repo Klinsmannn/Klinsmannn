@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Klinsmannn/osTicket)
 - <b>Microsoft Azure</b>
   - [Network File Shares and Permissions](https://github.com/Klinsmannn/File-Sharing-and-Access)  
-  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Klinsmannn/Active-Directory-within-Azure-VMs)
   - [Inspecting Network Protocols and Remote SSH Connection](https://github.com/Klinsmannn/Inspecting-Network-Traffic)
 
 <h2>🤳Connect with me:</h2>
